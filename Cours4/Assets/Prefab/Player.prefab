@@ -20,13 +20,13 @@ GameObject:
   m_Component:
   - component: {fileID: 4617469998999478}
   - component: {fileID: 212883923453044812}
-  - component: {fileID: 114061318335721076}
   - component: {fileID: 50210000502731548}
   - component: {fileID: 61508106687156582}
   - component: {fileID: 95079264745221958}
+  - component: {fileID: 114673846437727368}
   m_Layer: 8
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -185,7 +185,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114061318335721076
+--- !u!114 &114673846437727368
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}

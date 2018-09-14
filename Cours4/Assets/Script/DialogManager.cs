@@ -47,6 +47,7 @@ public class DialogManager : MonoBehaviour {
                 EndDialog();
             }
         }
+        ValideAxisInUser();
     }
 
     private void EndDialog()

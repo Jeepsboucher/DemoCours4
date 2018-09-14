@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114061318335721076}
   - component: {fileID: 50210000502731548}
   - component: {fileID: 61508106687156582}
-  - component: {fileID: 95079264745221958}
+  - component: {fileID: 95900318097558240}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -167,7 +167,7 @@ AudioListener:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1932142981002746}
   m_Enabled: 1
---- !u!95 &95079264745221958
+--- !u!95 &95900318097558240
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1733681320780940}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b79f463979541c4fb5bde98586ab54a, type: 3}
+  m_Script: {fileID: 11500000, guid: 32dd649adad44884bb20b14a5eae5b44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   maxSpeed: 7
